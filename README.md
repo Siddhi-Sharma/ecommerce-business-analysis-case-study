@@ -42,6 +42,31 @@ The analysis aims to:
 
 ---
 
+## 👥 Stakeholder Analysis
+
+The key stakeholders involved in the business problem are:
+
+| Stakeholder              | Role                            | Key Needs                                                          |
+| ------------------------ | ------------------------------- | ------------------------------------------------------------------ |
+| Senior Management        | Strategic decision-making       | Overall business performance, revenue growth, and profitability    |
+| Sales & Marketing Team   | Sales and customer growth       | Product performance, customer behavior, and regional sales trends  |
+| Operations Team          | Order and delivery management   | Delivery performance, delays, and operational issues               |
+| Customer Experience Team | Customer satisfaction           | Reviews, ratings, delivery experience, and customer concerns       |
+| Product Team             | Product and category management | Category performance, product demand, and underperforming products |
+| Finance Team             | Financial monitoring            | Revenue, payment trends, order value, and financial performance    |
+
+### Stakeholder Priorities
+
+The analysis will prioritize business areas that have the greatest potential impact on:
+
+* Revenue growth
+* Customer satisfaction
+* Operational efficiency
+* Product and category performance
+* Regional performance
+* Business decision-making
+
+
 ## 📊 Key Business Questions
 
 The analysis will answer the following questions:
