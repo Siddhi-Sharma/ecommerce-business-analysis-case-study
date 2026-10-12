@@ -66,6 +66,46 @@ The analysis will prioritize business areas that have the greatest potential imp
 * Regional performance
 * Business decision-making
 
+## 📋 Business Requirements
+
+Based on the business problem, objectives, and stakeholder needs, the following business requirements have been identified:
+
+### BR-01: Sales & Revenue Performance
+
+Analyze sales and revenue trends over time to understand overall business performance and identify periods of growth or decline.
+
+### BR-02: Product & Category Performance
+
+Identify high- and low-performing products and categories based on sales, revenue, and order volume.
+
+### BR-03: Regional Performance
+
+Evaluate sales and customer distribution across different regions to identify high-performing and underperforming markets.
+
+### BR-04: Customer Purchasing Behavior
+
+Analyze customer purchasing patterns, order frequency, and customer value to identify important customer segments and potential retention opportunities.
+
+### BR-05: Discount & Pricing Analysis
+
+Evaluate the relationship between discounts, order value, and sales performance to determine whether discounting strategies are effective.
+
+### BR-06: Delivery Performance
+
+Measure delivery times and compare actual delivery dates with estimated delivery dates to identify delays and operational issues.
+
+### BR-07: Customer Satisfaction
+
+Analyze customer review scores and investigate whether delivery performance is associated with customer satisfaction.
+
+### BR-08: Returns Analysis
+
+Identify patterns in product returns across categories, products, and regions to understand potential areas of concern.
+
+### BR-09: Business Recommendations
+
+Translate analytical findings into actionable recommendations that can improve revenue performance, customer experience, and operational efficiency.
+
 
 ## 📊 Key Business Questions
 
