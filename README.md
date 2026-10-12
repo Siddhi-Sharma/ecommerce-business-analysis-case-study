@@ -137,6 +137,41 @@ Before analysis, the datasets will be reviewed for:
 
 The relevant datasets will then be cleaned and joined to create an analysis-ready dataset for further business analysis.
 
+## 🧹 Data Cleaning & Preparation
+
+Before conducting the analysis, the datasets will be cleaned and prepared to ensure data quality and consistency.
+
+### Cleaning Activities
+
+The following data preparation activities will be performed:
+
+* Check and handle missing values.
+* Identify and remove duplicate records where appropriate.
+* Convert date columns into appropriate date formats.
+* Standardize categorical values and column names.
+* Translate product category names into English using the provided translation dataset.
+* Validate relationships between orders, customers, products, sellers, payments, and reviews.
+* Calculate derived metrics such as delivery duration, delivery delay, order value, and customer-level metrics.
+* Identify cancelled or unavailable orders where relevant to the analysis.
+* Create a consolidated analysis dataset by joining the required tables.
+
+### Key Derived Metrics
+
+The analysis will include metrics such as:
+
+* Total Revenue
+* Total Orders
+* Average Order Value
+* Delivery Time
+* Delivery Delay
+* Average Review Score
+* Orders per Customer
+* Customer Revenue
+* Category Revenue
+* Regional Revenue
+
+The cleaned and transformed data will be used for subsequent analysis, visualization, and business recommendations.
+
 
 ## 📊 Key Business Questions
 
