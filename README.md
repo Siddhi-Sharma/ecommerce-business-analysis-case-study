@@ -106,6 +106,37 @@ Identify patterns in product returns across categories, products, and regions to
 
 Translate analytical findings into actionable recommendations that can improve revenue performance, customer experience, and operational efficiency.
 
+## 📊 Data Understanding
+
+The analysis uses the Brazilian Olist e-commerce dataset, which contains information about orders, customers, products, sellers, payments, reviews, and geographic locations.
+
+### Datasets Used
+
+| Dataset                                 | Purpose                                                                    |
+| --------------------------------------- | -------------------------------------------------------------------------- |
+| `olist_orders_dataset.csv`              | Order status, purchase dates, delivery dates, and estimated delivery dates |
+| `olist_order_items_dataset.csv`         | Products purchased, sellers, prices, and freight values                    |
+| `olist_customers_dataset.csv`           | Customer identifiers and geographic information                            |
+| `olist_products_dataset.csv`            | Product details and product categories                                     |
+| `olist_order_payments_dataset.csv`      | Payment methods, installments, and payment values                          |
+| `olist_order_reviews_dataset.csv`       | Customer review scores and review information                              |
+| `olist_sellers_dataset.csv`             | Seller identifiers and geographic information                              |
+| `olist_geolocation_dataset.csv`         | Brazilian ZIP-code geographic information                                  |
+| `product_category_name_translation.csv` | Portuguese-to-English product category translations                        |
+
+### Data Quality Checks
+
+Before analysis, the datasets will be reviewed for:
+
+* Missing values
+* Duplicate records
+* Data types and formatting issues
+* Invalid or inconsistent dates
+* Relationships between datasets
+* Potential data quality issues
+
+The relevant datasets will then be cleaned and joined to create an analysis-ready dataset for further business analysis.
+
 
 ## 📊 Key Business Questions
 
